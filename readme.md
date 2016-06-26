@@ -1,4 +1,6 @@
-# hello-flatbuffers
+# Tutorial: Use FlatBuffers in Go
+
+The code for https://rwinslow.com/posts/use-flatbuffers-in-golang/
 
 ## Install the FlatBuffers compiler (Linux)
 
