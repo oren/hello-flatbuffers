@@ -27,13 +27,13 @@ flatc -g myschema.fbs
 GOPATH=$(pwd) go get github.com/google/flatbuffers/go
 ```
 
-# 4. Run
+## 4. Run
 
 ```
 GOPATH=$(pwd) go run main.go
 ```
 
-# 5. Test
+## 5. Test
 
 ```
 GOPATH=$(pwd) go test -test.bench .
